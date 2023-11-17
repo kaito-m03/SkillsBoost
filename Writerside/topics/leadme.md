@@ -10,7 +10,6 @@
 Google Cloud Platformの認定資格は、
 - 入門となる（特にGoogleにおける）クラウドの前提を築くためのCloud Leeder
 - 技術的なクラウドの扱い方を組織に導入することで得られるメリットを学ぶAsssocite Cloud Engineer
-そして、
 - Cloud Architect
 - Cloud Database Engineer
 - Cloud Developer
