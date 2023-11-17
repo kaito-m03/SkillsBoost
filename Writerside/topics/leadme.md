@@ -1,6 +1,6 @@
 #Google Cloud Platformのつかいかた
 
-## はじめにq
+## はじめに
 クラウドの認定資格（特にAssociate Cloud Engineer）に向けた
 学習としてSkills　Boostを利用しその中のクエストの
 攻略に向けてのメモです。
