@@ -1,0 +1,9 @@
+# GSP510
+# はじめに
+Cloudのコンソールで見れるようにするコマンド
+``` shell
+cd ~ && \
+git clone http://github.com/kaito-m03/SkillsBoost.git && \
+teachme SkillsBoost/Writerside/topics/Associate\ Cloud\ Engineer/GSP510.md
+```
+GKEクラスタの作成
